@@ -1,8 +1,13 @@
-# CHANGELOG [example]
+# CHANGELOG testing RailsAdmin
 
 The file contains important changes from version to version
 
-## v0.1.3 - UNRELEASED
+## v0.0 - UNRELEASED
+
+
+### Added
+
+* Adds rails admin 2.0
 
 ### Added
 
