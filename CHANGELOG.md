@@ -7,6 +7,7 @@ The file contains important changes from version to version
 
 ### Added
 
+* Adds mailjet v3.1
 * Adds rails admin 2.0
 
 ### Added
