@@ -9,5 +9,4 @@ end
 
 module SpecFileUploader
   include ActionDispatch::TestProcess
-  extend self
 end
